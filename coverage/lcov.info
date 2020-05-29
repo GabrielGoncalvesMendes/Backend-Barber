@@ -47,9 +47,9 @@ BRF:10
 BRH:10
 end_of_record
 TN:
-SF:src/modules/appointments/services/ListProviderDayAvailability.ts
+SF:src/modules/appointments/services/ListProviderDayAvailabilityService.ts
 FN:19,(anonymous_17)
-FN:20,ListProviderDayAvailability
+FN:20,ListProviderDayAvailabilityService
 FN:25,(anonymous_19)
 FN:44,(anonymous_22)
 FN:49,(anonymous_23)
@@ -57,7 +57,7 @@ FN:51,(anonymous_24)
 FNF:6
 FNH:6
 FNDA:1,(anonymous_17)
-FNDA:1,ListProviderDayAvailability
+FNDA:1,ListProviderDayAvailabilityService
 FNDA:1,(anonymous_19)
 FNDA:10,(anonymous_22)
 FNDA:10,(anonymous_23)
